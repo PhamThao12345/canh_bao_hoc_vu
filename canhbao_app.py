@@ -1,3 +1,6 @@
+import streamlit as st 
+import pandas as pd
+import pickle
 @st.cache_resource
 def load_model():
     with open('student_dropout_model.pkl', 'rb') as f:
