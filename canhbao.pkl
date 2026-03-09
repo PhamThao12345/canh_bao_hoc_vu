@@ -1,4 +1,0 @@
-/my-streamlit-app
- ├── student_model_artifacts.pkl
- ├── app.py
- └── requirements.txt
